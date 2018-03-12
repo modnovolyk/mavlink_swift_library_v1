@@ -29,10 +29,10 @@ public struct SetAttitudeTarget {
 	/// Body roll rate in radians per second
 	public let bodyRollRate: Float
 
-	/// Body roll rate in radians per second
+	/// Body pitch rate in radians per second
 	public let bodyPitchRate: Float
 
-	/// Body roll rate in radians per second
+	/// Body yaw rate in radians per second
 	public let bodyYawRate: Float
 
 	/// Collective thrust, normalized to 0 .. 1 (-1 .. 1 for vehicles capable of reverse trust)
